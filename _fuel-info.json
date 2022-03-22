@@ -1,0 +1,152 @@
+{
+  "2022-03-22T17:47:17.689039": {
+    "U91": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 187.9
+    },
+    "P95": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 199.9
+    },
+    "P98": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 207.9
+    },
+    "E10": {
+      "location": "Caboolture QLD 4510 (Caboolture East)",
+      "coords": [
+        -27.086812,
+        152.96604
+      ],
+      "price": 187.9
+    },
+    "DSL": {
+      "location": "Yagoona NSW 2199",
+      "coords": [
+        -33.90761,
+        151.02077
+      ],
+      "price": 205.9
+    },
+    "LPG": {
+      "location": "Croydon Hills VIC 3136",
+      "coords": [
+        -37.783172914717,
+        145.2677340183
+      ],
+      "price": 97.9
+    }
+  },
+  "2022-03-22T21:53:22.638730": {
+    "U91": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 187.9
+    },
+    "P95": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 199.9
+    },
+    "P98": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 207.9
+    },
+    "E10": {
+      "location": "Caboolture QLD 4510 (Caboolture East)",
+      "coords": [
+        -27.086812,
+        152.96604
+      ],
+      "price": 187.9
+    },
+    "DSL": {
+      "location": "Yagoona NSW 2199",
+      "coords": [
+        -33.90761,
+        151.02077
+      ],
+      "price": 205.9
+    },
+    "LPG": {
+      "location": "Croydon Hills VIC 3136",
+      "coords": [
+        -37.783172914717,
+        145.2677340183
+      ],
+      "price": 97.9
+    }
+  },
+  "2022-03-22T22:09:53.124375": {
+    "U91": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 187.9
+    },
+    "P95": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 199.9
+    },
+    "P98": {
+      "location": "Bassendean WA 6054",
+      "coords": [
+        -31.906383451092,
+        115.93092476975
+      ],
+      "price": 207.9
+    },
+    "E10": {
+      "location": "Caboolture QLD 4510 (Caboolture East)",
+      "coords": [
+        -27.086812,
+        152.96604
+      ],
+      "price": 187.9
+    },
+    "DSL": {
+      "location": "Yagoona NSW 2199",
+      "coords": [
+        -33.90761,
+        151.02077
+      ],
+      "price": 205.9
+    },
+    "LPG": {
+      "location": "Croydon Hills VIC 3136",
+      "coords": [
+        -37.783172914717,
+        145.2677340183
+      ],
+      "price": 97.9
+    }
+  }
+}
